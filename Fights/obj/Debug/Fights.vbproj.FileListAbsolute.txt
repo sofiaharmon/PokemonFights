@@ -1,0 +1,13 @@
+C:\Users\Sofia\source\repos\Fights\Fights\bin\Debug\Fights.exe.config
+C:\Users\Sofia\source\repos\Fights\Fights\bin\Debug\Fights.exe
+C:\Users\Sofia\source\repos\Fights\Fights\bin\Debug\Fights.pdb
+C:\Users\Sofia\source\repos\Fights\Fights\bin\Debug\Fights.xml
+C:\Users\Sofia\source\repos\Fights\Fights\obj\Debug\Fights.vbprojAssemblyReference.cache
+C:\Users\Sofia\source\repos\Fights\Fights\obj\Debug\Fights.Form1.resources
+C:\Users\Sofia\source\repos\Fights\Fights\obj\Debug\Fights.Resources.resources
+C:\Users\Sofia\source\repos\Fights\Fights\obj\Debug\Fights.vbproj.GenerateResource.cache
+C:\Users\Sofia\source\repos\Fights\Fights\obj\Debug\Fights.vbproj.CoreCompileInputs.cache
+C:\Users\Sofia\source\repos\Fights\Fights\obj\Debug\Fights.exe
+C:\Users\Sofia\source\repos\Fights\Fights\obj\Debug\Fights.xml
+C:\Users\Sofia\source\repos\Fights\Fights\obj\Debug\Fights.pdb
+C:\Users\Sofia\source\repos\Fights\Fights\obj\Debug\Fights.Form2.resources
